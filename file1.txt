@@ -1,2 +1,3 @@
 Working on feature branch
 Releasing feature 1
+Bug fix in hot fix branch
